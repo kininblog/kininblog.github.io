@@ -2,16 +2,17 @@
 title: "Pengaruh Penerapan Model Pembelajaran *Project Based Learning* Terhadap Keterampilan Kolaborasi Peserta Didik Madrasah Aliyah Swasta Al Falah Padang"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-02-18-model-project-based-learning-kolaborasi
+permalink: /publication/model-project-based-learning-kolaborasi
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2025-02-18
+venue: 'Skripsi 1'
 slidesurl: 'https://nanda.pediaku.id/files/slides1.pdf'
 paperurl: 'https://nanda.pediaku.id/files/paper1.pdf'
 citation: 'Fransiska, Nanda. (2025). &quot;Pengaruh Penerapan Model Pembelajaran *Project Based Learning* Terhadap Keterampilan Kolaborasi Peserta Didik Madrasah Aliyah Swasta Al Falah Padang.&quot; <i>Journal 1</i>. 1(1).'
 ---
+
 ## ABSTRAK
-------
+
 Nanda Fransiska NIM. 2020. 2591 Program Studi Pendidikan Agama Islam (PAI) Sekolah Tinggi Agama Islam Pengembangan Ilmu Al Quran (STAI PIQ) Sumatera Barat. ***“Pengaruh Penerapan Model Pembelajaran *Project Based Learning* Terhadap Keterampilan Kolaborasi Peserta Didik Madrasah Aliyah Swasta Al Falah Padang”***
 
 Pendidikan abad ke-21 menuntut peserta didik untuk tidak hanya menguasai aspek kognitif, tetapi juga memiliki keterampilan esensial seperti komunikasi, berpikir kritis, kreativitas dan kolaborasi. Keterampilan kolaborasi menjadi aspek penting dalam dunia modern yang semakin terintegrasi secara global, terutama dalam konteks pembelajaran yang berorientasi pada kerja sama dan pemecahan masalah. Salah satu model pembelajaran yang dapat meningkatkan keterampilan ini adalah **Project Based Learning** (PjBL), yang menekankan pada keterlibatan peserta didik dalam proyek-proyek yang menantang dan berbasis dunia nyata secara kolaboratif. Serta temuan penulis di lapangan bahwa keterampilan kolaborasi peserta didik di Madrasah Aliyah Swasta (MAS) Al Falah Padang kurang optimal.
