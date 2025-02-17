@@ -8,9 +8,9 @@ tags:
   - pjbl
 ---
 
-Saya saat ini sedang melakukan penelitian dan menyusun skripsi untuk menyelesaikan sarjana pendidikan agama islam di STAI PIQ sumbar. Adapun judul penelitian saya adalah "Pengaruh Penerapan Model Pembelajaran Project Based Learning Terhadap Kemampuan Kolaborasi Peserta Didik".
+Saya saat ini sedang melakukan penelitian dan menyusun [skripsi](https://nanda.pediaku.id) untuk menyelesaikan sarjana pendidikan agama islam di STAI PIQ sumbar. Adapun judul penelitian saya adalah "[Pengaruh Penerapan Model Pembelajaran Project Based Learning Terhadap Kemampuan Kolaborasi Peserta Didik](https://nanda.pediaku.id/publication/model-project-based-learning-kolaborasi)".
 
-Saat ini, 9 februari 2025 baru selesai revisi proposal penelitian. Dan untuk bab 3 penelitian ini menggunakan kuesioner sebagai alat untuk mengumpulkan data, di bawah saya membuat beberapa kuesioner atau angket tentang kedua variabel ini.
+Saat ini, 9 februari 2025 baru selesai revisi proposal penelitian. Dan untuk bab 3 penelitian ini menggunakan [kuesioner](https://nanda.pediaku.id/posts/kuesioner-project-based-learning-kolaborasi) sebagai alat untuk mengumpulkan data, di bawah saya membuat beberapa kuesioner atau angket tentang kedua variabel ini.
 
 Variabel Pembelajaran Proyek, tujuan kuesionernya untuk melihat bagaimana penerapan pembelajaran project based learning di MAS Al Falah. 
 
