@@ -9,37 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Riwayat Pendidikan
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* SD Negeri 26 Kinali, 2013
+* SMP Negeri 3 Kinali, 2016
+* SMA Negeri 1 Kinali, 2019
+* Pendidikan Agama Islam, STAI PIQ SUMBAR, 2025 
 
-Work experience
+Pengalaman
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Mengajar di MDTA Mushola Tauhid, 2023-2025
+  * Penulis Blog
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mengajar
+* Membuat, dan mengelola blog
+
 
 Publications
 ======
