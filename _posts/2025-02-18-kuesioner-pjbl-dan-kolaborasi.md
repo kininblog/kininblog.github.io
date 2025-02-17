@@ -12,7 +12,7 @@ Saya saat ini sedang melakukan penelitian dan menyusun [skripsi](https://nanda.p
 
 Saat ini, 9 februari 2025 baru selesai revisi proposal penelitian. Dan untuk bab 3 penelitian ini menggunakan [kuesioner](https://nanda.pediaku.id/posts/kuesioner-project-based-learning-kolaborasi) sebagai alat untuk mengumpulkan data, di bawah saya membuat beberapa kuesioner atau angket tentang kedua variabel ini.
 
-Variabel Pembelajaran Proyek, tujuan kuesionernya untuk melihat bagaimana penerapan pembelajaran project based learning di MAS Al Falah. 
+Variabel Pembelajaran Proyek, tujuan kuesionernya untuk melihat bagaimana penerapan pembelajaran project based learning di [MAS Al Falah](https://nanda.pediaku.id/posts/profil-mas-al-falah-padang). 
 
 Variabel Kolaborasi, adalah kuesioner untuk melihat bagaimana gambaran kemampuan kolaborasi peserta didik di [MAS Al Falah Padang](https://nanda.pediaku.id/talks/ppl-di-mas-alfalah)
 
