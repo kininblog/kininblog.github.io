@@ -9,9 +9,7 @@ redirect_from:
 
 👨🏻‍💻 Saya sedang menempuh pendidikan di STAI PIQ SUMBAR program studi Pendidikan Agama Islam.
 🔬 Research sebagai tugas akhir saya berjudul "Pengaruh Model Pembelajaran Project Based Learning Terhadap Keterampilan Kolaborasi Peserta Didik di MAS Al Falah Padang"
-
 📚 Saya seorang blogger yang senang mempelajari hal-hal tentang internet dan dunia blogging.
-
 📽️ Saat ini, saya juga sedang mengajar sebagai guru di MDTA
 
 Cerita Singkat Tentang Saya

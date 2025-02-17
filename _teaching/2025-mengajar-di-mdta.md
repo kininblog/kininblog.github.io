@@ -1,20 +1,11 @@
 ---
 title: "Mengajar di MDTA Mushola Tauhid"
 collection: teaching
-type: "Undergraduate course"
+type: "Sedang berlangsung"
 permalink: /teaching/2025-mengajar-di-mdta
 venue: "Mushola Tauhid"
 date: 2025-01-01
 location: "Padang, Indonesia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Sejak 2022 sampai sekarang saya menjadi staff pengajar di MDTA Mushola Tauhid Sawahan timur. Mengajar membaca Iqra untuk anak-anak dan membaca alquran, materi pembelajaran akhlak dan pendidikan agama dasar bagi anak-anak.
