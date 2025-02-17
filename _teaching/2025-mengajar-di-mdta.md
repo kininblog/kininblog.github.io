@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Mengajar di MDTA Mushola Tauhid"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2025-mengajar-di-mdta
+venue: "Mushola Tauhid"
+date: 2025-01-01
+location: "Padang, Indonesia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
