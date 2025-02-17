@@ -14,7 +14,7 @@ Saat ini, 9 februari 2025 baru selesai revisi proposal penelitian. Dan untuk bab
 
 Variabel Pembelajaran Proyek, tujuan kuesionernya untuk melihat bagaimana penerapan pembelajaran project based learning di MAS Al Falah. 
 
-Variabel Kolaborasi, adalah kuesioner untuk melihat bagaimana gambaran kemampuan kolaborasi peserta didik di MAS Al Falah Padang
+Variabel Kolaborasi, adalah kuesioner untuk melihat bagaimana gambaran kemampuan kolaborasi peserta didik di [MAS Al Falah Padang](https://nanda.pediaku.id/talks/ppl-di-mas-alfalah)
 
 **Permasalahan**, Saya belum melakukan uji validasi angket ini. Jadi kemungkinan besar ada beberapa atau bahkan banyak pertanyaan/pernyataan dalam kuesioner ini yang tidak Valid.
 
